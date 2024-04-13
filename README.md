@@ -7,7 +7,7 @@ As you can see here, I have participated in several web3 projects on vairous net
 <h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-developer-solana-evm-etc/assets/127183857/e97e2418-d009-48a0-a7ee-b52731ab3fa3">
+<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/897cfe7f-1a4d-4ef3-bc59-92c131bc9834">
 <div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
 <div>- Built smart contracts for staking, nft lending platform(similar to sharky.fi).</div>
 <div>- Built backend for staking.</div>
@@ -23,7 +23,7 @@ As you can see here, I have participated in several web3 projects on vairous net
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
+<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/494616df-19bd-4bf7-bbda-d1ec9b6011f7">
 <div>Reavers is more than just an idle game at the core. Reavers was engineered with an overarching theme that is as simple as it gets.</div>
 <div>- Audited, found & fix vulnerabilities in whole project wide.</div>
 <div>- Optimized database calls.</div>
@@ -36,7 +36,7 @@ As you can see here, I have participated in several web3 projects on vairous net
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
+<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/e8420ca0-ac47-4e94-b19c-f16f531e0a48">
 
 <div>Lead poker platform development.</div>
 
@@ -49,7 +49,7 @@ As you can see here, I have participated in several web3 projects on vairous net
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/09b6dff5-675e-4c1e-8e9b-812ed6057929">
 
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
@@ -67,7 +67,7 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 This is a Lootbox game for `TombStoned`.
 There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
 
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
+<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/1a97f012-86db-4ac6-af0d-8b592842ee09">
 
 I built backend & smart contract as well as supported web3 integration to front-end.
 
