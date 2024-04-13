@@ -1,3 +1,6 @@
+Here are my solana + EVM projects.
+Here, I had the pleasure of collaborating with the development team to thoroughly analyze security measures and explore opportunities for coding optimization, not a dev.
+
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -23,15 +26,6 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
 - Frontend repo: <a href="https://github.com/sakele1026/spritebox">Spritebox-frontend</a>
 - Backend repo: <a href="https://github.com/sakele1026/sprite-box-backend">Spritebox-brontend</a>
-
-
-
-
-
-
-
-
-
 
 <br/>
 
