@@ -21,13 +21,6 @@ As you can see here, I have participated in several web3 projects on vairous net
 <div>- Optimized database calls.</div>
 - Live: <a href="https://reavers.xyz">Reavers</a>
 
-<h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
-<div>Lead poker platform development.</div>
-- Live: <a href="https://goalpost.gg">BvB Goalpost</a>
-<br/>
-
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 <img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
