@@ -1,4 +1,5 @@
 Here are my solana + EVM projects.
+<br/>
 Here, I had the pleasure of collaborating with the development team to thoroughly analyze security measures and explore opportunities for coding optimization, not a dev.
 
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
