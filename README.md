@@ -26,10 +26,7 @@ As you can see here, I have participated in several web3 projects on vairous net
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
 <div>Lead poker platform development.</div>
 - Live: <a href="https://goalpost.gg">BvB Goalpost</a>
-- Frontend repo: <a href="https://github.com/microgift/goal-post-frontend">Goalpost-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/goal-post-backend">Goalpost-backend</a>
-- Socket repo: <a href="https://github.com/microgift/goal-post-socket">Goalpost-socket</a>
-- Contract repo: <a href="https://github.com/microgift/goal-post-contract">Goalpost-contract</a>
+<br/>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
