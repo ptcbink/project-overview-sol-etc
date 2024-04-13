@@ -131,7 +131,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-developer-solana-evm-etc/assets/127183857/d0542922-0cd3-4ffb-acf1-70d5112aaa1a">
+<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/a53c305a-21b6-4501-b795-74bc24e339ae">
 
 This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount.
 <div>Handled all project development.</div>
