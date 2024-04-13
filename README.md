@@ -1,38 +1,3 @@
-# <i>Web3 projects overview</i>
-
-Here are my past web3 projects
-As you can see here, I have participated in several web3 projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms.
-<div>All repos are under private status.</div>
-
-<h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/897cfe7f-1a4d-4ef3-bc59-92c131bc9834">
-<div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
-<div>- Built smart contracts for staking, nft lending platform(similar to sharky.fi).</div>
-<div>- Built backend for staking.</div>
-<div>- Built admin page and fixed frontend issues as well.</div>
-
-- Live: <a href="https://pioneerlegends.com">Pioneer Legends</a>
-- Frontend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-frontend">Pioneer-legends-frontend</a>
-- Backend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-backend">Pioneer-legends-backend</a>
-- Whitepaper repo: <a href="https://github.com/pioneerlegends/pioneer-legends-whitepaper">Pioneer-legends-whitepaper</a>
-- Smart contract repo: <a href="https://github.com/sakele1026/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
-
-
-<h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/494616df-19bd-4bf7-bbda-d1ec9b6011f7">
-<div>Reavers is more than just an idle game at the core. Reavers was engineered with an overarching theme that is as simple as it gets.</div>
-<div>- Audited, found & fix vulnerabilities in whole project wide.</div>
-<div>- Optimized database calls.</div>
-
-- Live: <a href="https://reavers.xyz">Reavers</a>
-- Frontend repo: <a href="https://github.com/sakele1026/Reavers">Reavers-frontend</a>
-- Backend repo: <a href="https://github.com/sakele1026/reavers-cloud-functions">Reavers-backend</a>
-
-
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
