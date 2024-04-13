@@ -6,26 +6,54 @@ As you can see here, I have participated in several web3 projects on vairous net
 
 <h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/e97e2418-d009-48a0-a7ee-b52731ab3fa3">
 <div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
 <div>- Built smart contracts for staking, nft lending platform(similar to sharky.fi).</div>
 <div>- Built backend for staking.</div>
 <div>- Built admin page and fixed frontend issues as well.</div>
+
 - Live: <a href="https://pioneerlegends.com">Pioneer Legends</a>
+- Frontend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-frontend">Pioneer-legends-frontend</a>
+- Backend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-backend">Pioneer-legends-backend</a>
+- Whitepaper repo: <a href="https://github.com/pioneerlegends/pioneer-legends-whitepaper">Pioneer-legends-whitepaper</a>
+- Smart contract repo: <a href="https://github.com/microgift/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
+
 
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
 <div>Reavers is more than just an idle game at the core. Reavers was engineered with an overarching theme that is as simple as it gets.</div>
 <div>- Audited, found & fix vulnerabilities in whole project wide.</div>
 <div>- Optimized database calls.</div>
+
 - Live: <a href="https://reavers.xyz">Reavers</a>
+- Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
+- Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
+
+
+<h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
+
+<div>Lead poker platform development.</div>
+
+- Live: <a href="https://goalpost.gg">BvB Goalpost</a>
+- Frontend repo: <a href="https://github.com/microgift/goal-post-frontend">Goalpost-frontend</a>
+- Backend repo: <a href="https://github.com/microgift/goal-post-backend">Goalpost-backend</a>
+- Socket repo: <a href="https://github.com/microgift/goal-post-socket">Goalpost-socket</a>
+- Contract repo: <a href="https://github.com/microgift/goal-post-contract">Goalpost-contract</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+
 <img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
+
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
 - Frontend repo: <a href="https://github.com/microgift/spritebox">Spritebox-frontend</a>
@@ -34,9 +62,12 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+
 <img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
+
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
+
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
 - Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
 - Contract program repo: <a href="https://github.com/microgift/hoopas-staking">Hoopas-lock-contract</a>
