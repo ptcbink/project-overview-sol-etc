@@ -2,9 +2,63 @@ Here are my solana + EVM projects.
 <br/>
 Here, I had the pleasure of collaborating with the development team to thoroughly analyze security measures and explore opportunities for coding optimization, not a dev.
 
-<h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
+
+
+
+<h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
 <hr />
 
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
+
+By earning Points you move up levels. Each level reached earns your shards into crystals. And the number of Crystals decided how much $GMRX you will be able to claim.
+
+You can earn points by interacting with GAIMIN Power Tweets (likes and replies, up to 1 reply per post). Power Tweets will only be live for a limited period after they’re posted. Engaging with them after that period will not earn you points.
+
+- Live: <a href="https://gaimin.io">Gaimin</a>
+- user-repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
+- admin-repo: <a href="https://github.com/asseph/gaimin-admin">Gaimin-Admin</a>
+
+
+
+
+<h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/660307e1-2148-4309-9808-7fdce336685e">
+
+This project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
+
+Players can purchase these loot boxes using Solana's native cryptocurrency and unlock exciting surprises within them. Each loot box may contain unique digital assets, collectibles, skins, or other valuable items that can enhance the gaming experience or be traded within the game's ecosystem.
+
+The project aims to leverage Solana's high-performance blockchain technology to offer players a seamless and secure gaming experience with transparent ownership of digital assets. Through the integration of decentralized finance (DeFi) principles, players can participate in the game's economy, trade assets on decentralized exchanges, and potentially earn rewards through staking or liquidity provision.
+
+- fe-repo: <a href="https://github.com/asseph/elemental-lootboxes-fe">elemental-lootboxes-fe</a>
+- smart contract: <a href="https://github.com/asseph/elemental-lootboxes-sc">elementals-lootboxes-contract</a>
+
+
+
+<h3><u><strong><i>E7L</i></strong></u> &nbsp;- Rust smart contract</h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/c526fa39-6155-45aa-941c-3894b7f82c98">
+
+Check out this Ethereum contract, just for the use-case of the program: https://github.com/Racks-Labs/ERC721-Linkable
+
+An NFT should be able to be initialized in a way where other NFTs can be linked and unlinked again from it.
+Instructions will be link, unlink, sync same as in erc721 example
+- Initialise PDA for NFT that other NFTs should be linked to
+- Link instructions 
+ -- adds the linked NFT as address to the PDA of the main NFT.
+ -- Freezes the NFT in the current users wallet and delegates authority to unfreeze and transfer to the PDA
+- Unlink unfreezes and removes PDA delegate again
+- Sync looks at a linked NFT of a main NFT. If the main NFT has a different owner than the linked NFT, the linked NFT is transferred to the new main NFT owner
+
+- contract-repo: <a href="https://github.com/asseph/E7L-S-Protocol">E7L-Solana protocol</a>
+
+
+
+<h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
 <img align="right" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/e8420ca0-ac47-4e94-b19c-f16f531e0a48">
 
 <div>Lead poker platform development.</div>
