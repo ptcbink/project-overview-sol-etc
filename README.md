@@ -15,25 +15,23 @@ By earning Points you move up levels. Each level reached earns your shards into 
 You can earn points by interacting with GAIMIN Power Tweets (likes and replies, up to 1 reply per post). Power Tweets will only be live for a limited period after they’re posted. Engaging with them after that period will not earn you points.
 
 - Live: <a href="https://gaimin.io">Gaimin</a>
-- user-repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
-- admin-repo: <a href="https://github.com/asseph/gaimin-admin">Gaimin-Admin</a>
-
-
+- user-repo: <a href="https://github.com/ptcbink/gaimin-portal">Gaimin-Portal</a>
+- admin-repo: <a href="https://github.com/ptcbink/gaimin-admin">Gaimin-Admin</a>
+ptcbink
 
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/660307e1-2148-4309-9808-7fdce336685e">
-
-This project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
+<img align="right" width="300px" height="200px" src="https://github.com/ptcbink/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/660307e1-2148-4309-9808-7fdce336685e">
+ptcbinkThis project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
 
 Players can purchase these loot boxes using Solana's native cryptocurrency and unlock exciting surprises within them. Each loot box may contain unique digital assets, collectibles, skins, or other valuable items that can enhance the gaming experience or be traded within the game's ecosystem.
 
 The project aims to leverage Solana's high-performance blockchain technology to offer players a seamless and secure gaming experience with transparent ownership of digital assets. Through the integration of decentralized finance (DeFi) principles, players can participate in the game's economy, trade assets on decentralized exchanges, and potentially earn rewards through staking or liquidity provision.
 
-- fe-repo: <a href="https://github.com/asseph/elemental-lootboxes-fe">elemental-lootboxes-fe</a>
-- smart contract: <a href="https://github.com/asseph/elemental-lootboxes-sc">elementals-lootboxes-contract</a>
+- fe-repo: <a href="https://github.com/ptcbink/elemental-lootboxes-fe">elemental-lootboxes-fe</a>
+- smart contract: <a href="https://github.com/ptcbink/elemental-lootboxes-sc">elementals-lootboxes-contract</a>
 
 
 
@@ -53,7 +51,7 @@ Instructions will be link, unlink, sync same as in erc721 example
 - Unlink unfreezes and removes PDA delegate again
 - Sync looks at a linked NFT of a main NFT. If the main NFT has a different owner than the linked NFT, the linked NFT is transferred to the new main NFT owner
 
-- contract-repo: <a href="https://github.com/asseph/E7L-S-Protocol">E7L-Solana protocol</a>
+- contract-repo: <a href="https://github.com/ptcbink/E7L-S-Protocol">E7L-Solana protocol</a>
 
 
 
