@@ -23,8 +23,8 @@ ptcbink
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/ptcbink/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/660307e1-2148-4309-9808-7fdce336685e">
-ptcbinkThis project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
+<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/660307e1-2148-4309-9808-7fdce336685e">
+This project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
 
 Players can purchase these loot boxes using Solana's native cryptocurrency and unlock exciting surprises within them. Each loot box may contain unique digital assets, collectibles, skins, or other valuable items that can enhance the gaming experience or be traded within the game's ecosystem.
 
@@ -62,10 +62,10 @@ Instructions will be link, unlink, sync same as in erc721 example
 <div>Lead poker platform development.</div>
 
 - Live: <a href="https://goalpost.gg">BvB Goalpost</a>
-- Frontend repo: <a href="https://github.com/sakele1026/goal-post-frontend">Goalpost-frontend</a>
-- Backend repo: <a href="https://github.com/sakele1026/goal-post-backend">Goalpost-backend</a>
-- Socket repo: <a href="https://github.com/sakele1026/goal-post-socket">Goalpost-socket</a>
-- Contract repo: <a href="https://github.com/sakele1026/goal-post-contract">Goalpost-contract</a>
+- Frontend repo: <a href="https://github.com/ptcbink/goal-post-frontend">Goalpost-frontend</a>
+- Backend repo: <a href="https://github.com/ptcbink/goal-post-backend">Goalpost-backend</a>
+- Socket repo: <a href="https://github.com/ptcbink/goal-post-socket">Goalpost-socket</a>
+- Contract repo: <a href="https://github.com/ptcbink/goal-post-contract">Goalpost-contract</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -77,8 +77,8 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
-- Frontend repo: <a href="https://github.com/sakele1026/spritebox">Spritebox-frontend</a>
-- Backend repo: <a href="https://github.com/sakele1026/sprite-box-backend">Spritebox-brontend</a>
+- Frontend repo: <a href="https://github.com/ptcbink/spritebox">Spritebox-frontend</a>
+- Backend repo: <a href="https://github.com/ptcbink/sprite-box-backend">Spritebox-brontend</a>
 
 <br/>
 
@@ -94,8 +94,8 @@ I built backend & smart contract as well as supported web3 integration to front-
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/sakele1026/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
-  - contract program repo: <a href="https://github.com/sakele1026/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
+  - backend repo: <a href="https://github.com/ptcbink/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
+  - contract program repo: <a href="https://github.com/ptcbink/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
 
 
 
@@ -103,14 +103,14 @@ I built backend & smart contract as well as supported web3 integration to front-
 <hr />
 
 This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/sakele1026/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
+<img align="right" width="300px" src="https://github.com/ptcbink/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
 
 I wrote smart contract and supported web3 integration to front-end.
 
 - Live: <a href="https://staking.soblins.io">Soblins staking</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/sakele1026/SoblinsStaking-SC">SoblinsStaking-contract</a>
-  - frontend repo: <a href="https://github.com/sakele1026/SoblinsStaking-FE">SoblinsStaking-frontend</a>
+  - smart contract repo: <a href="https://github.com/ptcbink/SoblinsStaking-SC">SoblinsStaking-contract</a>
+  - frontend repo: <a href="https://github.com/ptcbink/SoblinsStaking-FE">SoblinsStaking-frontend</a>
 
 
 <h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
@@ -125,9 +125,9 @@ I attended this project and wrote smart contract and supported on back-end/front
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/sakele1026/monopoly-program">monopoly-program</a>
-  - backend repo: <a href="https://github.com/sakele1026/monopoly-backend">monopoly-backend</a>
-  - frontend repo: <a href="https://github.com/sakele1026/monopoly-frontend">monopoly-frontend</a>
+  - smart contract repo: <a href="https://github.com/ptcbink/monopoly-program">monopoly-program</a>
+  - backend repo: <a href="https://github.com/ptcbink/monopoly-backend">monopoly-backend</a>
+  - frontend repo: <a href="https://github.com/ptcbink/monopoly-frontend">monopoly-frontend</a>
 
 
 
@@ -143,9 +143,9 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/sakele1026/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/sakele1026/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/sakele1026/degen-taxi-frontend">degen-taxi-frontend</a>
+  - backend repo: <a href="https://github.com/ptcbink/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
+  - smart contract repo: <a href="https://github.com/ptcbink/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
+  - frontend repo: <a href="https://github.com/ptcbink/degen-taxi-frontend">degen-taxi-frontend</a>
 
 
 
@@ -159,8 +159,8 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 <div>Hosted to plesk</div>
 
 - Live: <a href="https://flip.baby">ATOZ CoinFlip</a>
-- Frontend repo: <a href="https://github.com/sakele1026/atoz-coinflip-frontend">coinflip-frontend</a>
-- Smartcontract repo: <a href="https://github.com/sakele1026/atoz-coinflip-contract">coinflip-smartcontract</a>
+- Frontend repo: <a href="https://github.com/ptcbink/atoz-coinflip-frontend">coinflip-frontend</a>
+- Smartcontract repo: <a href="https://github.com/ptcbink/atoz-coinflip-contract">coinflip-smartcontract</a>
 
 
 
@@ -181,9 +181,9 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
 - Github repo:
-  - Contract: <a href="https://github.com/sakele1026/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/sakele1026/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/sakele1026/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
+  - Contract: <a href="https://github.com/ptcbink/dale-mint-contract-avax">dale-mint-contract-avax</a>
+  - Backend: <a href="https://github.com/ptcbink/dale-mint-backend-avax">dale-mint-backend-avax</a>
+  - Frontend: <a href="https://github.com/ptcbink/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -201,7 +201,7 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
 - Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/sakele1026/Burning_Masked_Ape">Burning_Masked_Ape</a>
+- Github repo: <a href="https://github.com/ptcbink/Burning_Masked_Ape">Burning_Masked_Ape</a>
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -229,7 +229,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
       - 25% bonus on the sum of the rarity multiplier.
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
-- Github Repo: <a href="https://github.com/sakele1026/BASC-NFT-Staking">BASC-NFT-Staking</a>
+- Github Repo: <a href="https://github.com/ptcbink/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
 <h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -255,7 +255,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
   - Moved to this link: <a href="https://www.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/sakele1026/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
+- Github repo: <a href="https://github.com/ptcbink/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -269,7 +269,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/sakele1026/Dwarves-staking" target="_blank">Dwarves-staking</a>
+- Github repo: <a href="https://github.com/ptcbink/Dwarves-staking" target="_blank">Dwarves-staking</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -291,7 +291,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/sakele1026/EU-raffle" target="_blank">EU-raffle</a>
+- Github repo: <a href="https://github.com/ptcbink/EU-raffle" target="_blank">EU-raffle</a>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -309,7 +309,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/sakele1026/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
+- Github repo: <a href="https://github.com/ptcbink/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
 <h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -328,7 +328,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
   - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/sakele1026/Apex-Raffle">Apex-Raffle</a>
+- Github repo: <a href="https://github.com/ptcbink/Apex-Raffle">Apex-Raffle</a>
 
 <h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -348,7 +348,7 @@ This is raffle/auction houses of tombstoned application on Solana network.
   - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
   - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/sakele1026/auction-doge">auction-doge</a>
+- Github repo: <a href="https://github.com/ptcbink/auction-doge">auction-doge</a>
   - Project Structure:
     - Auction contract, Api, Front-end
 
@@ -370,7 +370,7 @@ Now we are adding more features for Nanas.
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
   (Current Staking is updating.... so It's down now)
   
-- Git repo: <a href="https://github.com/sakele1026/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
+- Git repo: <a href="https://github.com/ptcbink/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
 <hr />
@@ -384,7 +384,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/sakele1026/Aurora-staking" target="_blank">Aurora-staking</a>
+- Github repo: <a href="https://github.com/ptcbink/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -396,7 +396,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - What is `97 Universe` ?
   - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
 - Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
-- Github repo: <a href="https://github.com/sakele1026/Universe97" target="_blank">Universe97</a>
+- Github repo: <a href="https://github.com/ptcbink/Universe97" target="_blank">Universe97</a>
 
 <h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -407,4 +407,4 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
-- Git repo: <a href="https://github.com/sakele1026/token-list" target="_blank">Space Parts</a>
+- Git repo: <a href="https://github.com/ptcbink/token-list" target="_blank">Space Parts</a>
